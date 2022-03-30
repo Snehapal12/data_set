@@ -1,0 +1,36 @@
+[
+    {
+        "id" :1,
+        "name":"Select City"
+    },
+
+    {
+        "id":2,
+        "name": "Book Appointment"
+    },
+    {
+        "id":3,
+        "name": "Our Specialities"
+    },
+    {
+        "id":4,
+        "name":"mediaCoverage"
+    },
+    {
+        "id":5,
+        "name": "Frequently Asked Questions"
+    },
+    {
+        "id":6,
+        "name":"Our Patients Love US"
+    },
+    {
+        "id":7,
+        "name": "Disease"
+    },
+    {
+        "id":8,
+        "name": "Our Doctors"
+    }
+
+]

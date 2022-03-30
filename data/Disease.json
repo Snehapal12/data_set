@@ -1,0 +1,226 @@
+[
+    {
+        "id":1,
+        "name":"Proctology",
+        "img_url":"img/Proctology (1).png",
+        "Proctology":[
+            {
+                "Proctology_id":1,
+                "name":"Piles",
+                "img":"img/piles.svg"
+            },
+            {
+                "Proctology_id":2,
+                "name":"Festual",
+                "img":"img/fistula.svg"
+            },
+            {
+                "Proctology_id":3,
+                "name":"Fissure",
+                "img":"img/fissure.svg"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "name":"Laparoscopy",
+        "img_url":"img/Laparoscopy (1).png",
+        "Laparoscopy":[
+            {
+                "Laparoscopy_id":1,
+                "name":"Hernia",
+                "img":"img/Hernia.svg"
+            },
+            {
+                "Laparoscopy_id":2,
+                "name":"Gallstone",
+                "img":"img/Galstone.svg"
+            },
+            {
+                "Laparoscopy_id":3,
+                "name":"Appendicitis",
+                "img":"img/Appendicitis.svg"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "name":"Gynaecology",
+        "img_url":"img/Gynaecology (1).png",
+        "Gynaecology":[
+            {
+                "Gynaecology_id":1,
+                "name":"Hysteroscopy",
+                "img":""
+            },
+            {
+                "Gynaecology_id":2,
+                "name":"Female Genital Procedures",
+                "img":""
+            },
+            {
+                "Gynaecology_id":3,
+                "name":"Vaginal Cyst",
+                "img":""
+            },
+            {
+                "Gynaecology_id":4,
+                "name":"Irregular Periods",
+                "img":""
+            }
+        ]
+    },
+    {
+        "id":4,
+        "name":"ENT",
+        "img_url":"img/ent-min.png",
+        "ENT":[
+            {
+                "ENT_id":1,
+                "name":"SinusSurgery",
+                "img":""
+            },
+            {
+                "ENT_id":2,
+                "name":"Septoplasty",
+                "img":""
+            },
+            {
+                "ENT_id":3,
+                "name":"Ear Surgery",
+                "img":""
+            }
+        ]
+    },
+    {
+        "id":5,
+        "name":"Urology",
+        "img_url":"img/Urology (1).png",
+        "Urology":[
+            {
+                "Urology_id":1,
+                "name":"Kidney Stone",
+                "img":""
+            },
+            {
+                "Urology_id":2,
+                "name":"Hydrocele",
+                "img":""
+            },
+            {
+                "Urology_id":3,
+                "name":"Phimosis",
+                "img":""
+            }
+        ]
+    },
+    {
+        "id":6,
+        "name":"Vascular",
+        "img_url":"img/Vascular (1).png",
+        "Vascular":[
+            {
+                "Vascular_id":1,
+                "name":"Diabetic Foot Ulcer",
+                "img":""
+            },
+            {
+                "Vascular_id":2,
+                "name":"Varicose Veins",
+                "img":""
+            }
+            ,
+            {
+                "Vascular_id":3,
+                "name":"Varicocele",
+                "img":""
+            }
+        ]
+    },
+    {
+        "id":7,
+        "name":"Aesthetics",
+        "img_url":"img/Icons_Aesthetics.png",
+        "Aesthetics":[
+            {
+                "Aesthetics_id":1,
+                "name":"Gynecomastia",
+                "img":""
+            },
+            {
+                "Aesthetics_id":2,
+                "name":"Hair Transplant",
+                "img":""
+            },
+            {
+                "Aesthetics_id":3,
+                "name":"Breast Surgery",
+                "img":""
+            }
+        ]
+    },
+    {
+        "id":8,
+        "name":"Orthopedics",
+        "img_url":"img/Icons_Orthopedics.png",
+        "Orthopedics":[
+            {
+                "Orthopedics_id":1,
+                "name":"Carpal Tunnel Syndrome",
+                "img":""
+            },
+            {
+                "Orthopedics_id":2,
+                "name":"ACL-Tear",
+                "img":""
+            },
+            {
+                "Orthopedics_id":3,
+                "name":"Hip Replacement",
+                "img":""
+            }
+        ]
+    },
+    {
+        "id":9,
+        "name":"Ophthalmology",
+        "Ophthalmology":[
+           {
+               "Ophthlmology_id":1,
+               "name":"Cataract",
+               "img":""
+           },
+           {
+               "Ophthlmology_id":2,
+               "name":"LASIK",
+               "img":""
+           }
+        ]
+    },
+    {
+        "id":10,
+        "name":"Fertility",
+        "Fertility":[
+            {
+                "Fertility_id":1,
+                "name":"IVF Treatment",
+                "img":""
+            },
+            {
+                "Fertility_id":2,
+                "name":"Male Infertility",
+                "img":""
+            },
+            {
+                "Fertility_id":3,
+                "name":"IUI Treatment",
+                "img":""
+            },
+            {
+                "Fertility_id":4,
+                "name":"Female Infertility",
+                "img":""
+            }
+        ]
+    }
+]

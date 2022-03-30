@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name": "PristynCare",
+        "category_id" : "2" ,
+        "Disease_id":1  
+    },
+    {
+        "id":2,
+        "name": "PristynCare",
+        "category_id": "2",
+        "Disease_id":2
+    },
+    {
+        "id":3,
+        "name":"PristynCare",
+        "category_id":"3",
+        "Disease_id":3
+    },
+    {
+        "id":4,
+        "name":"PristynCare",
+        "category_id":"4",
+        "Disease_id":4
+    }
+]

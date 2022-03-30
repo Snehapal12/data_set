@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "name":"mediaCoverage",
+        "mediaCoverage":[
+            {
+                "imgUrl": "img/Group 5951@2x.png",
+                "path": "https://m.dailyhunt.in/news/india/english/yourstory-epaper-yourstory/funding+alert+pristyn+care+raises+12m+series+b+investment+led+by+sequoia+india+hummingbird+and+greenoaks-newsid-153952746",
+                "text": "Daily Hunt covers news on Pristyn Care"
+            
+            },
+            {
+                 "imgUrl":"img/Group59502x.png",
+                 "path": "https://yourstory.com/2019/12/funding-alert-pristyn-care-series-b-sequoia-greenoaks-hummingbird",
+                 "text": "Your Story Covers News on Pristyn Care"
+            },
+            {
+                 "imgUrl": "img/Group5949@2x.png",
+                 "path": "https://tech.economictimes.indiatimes.com/news/startups/pristyn-care-raises-12-million-series-b-funding-from-sequoia-others/72871381",
+                 "text": "The Economic Times Covers News on Pristyn Care"
+            }, 
+            {
+                "imgUrl": "Group5953@2x.png",
+                "path": "https://www.business-standard.com/article/news-ani/pristyn-care-expands-healthcare-delivery-network-in-6-new-cities-119062700315_1.html",
+                "text": "Business Standard covers news on Pristyn Care"
+            },
+            {
+                 "imgUrl": "Group5952@2x.png",
+                 "path": "https://www.outlookindia.com/newsscroll/gurgaon-now-has-pristyn-cares-very-own-healthcare-facility/1575828",
+                 "text": "Outlook Magazine covers news on Pristyn Care"
+            }
+        ]
+    }
+]
